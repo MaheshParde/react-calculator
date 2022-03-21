@@ -24,11 +24,7 @@
     "eject": "react-scripts eject"
   },
   
-  "babel": {
-        "presets": [
-            "react-app"
-        ]
- },
+  
   
   "browserslist": [
     ">0.2%",
