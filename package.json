@@ -3,6 +3,7 @@
   "author": "caleb pollman",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   
   "dependencies": {
     "react": "^17.0.2",
